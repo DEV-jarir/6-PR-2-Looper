@@ -5,7 +5,7 @@ using namespace std;
 int main(){
 
     int num,total=0,sum;
-    cout<<"enter num1 value";
+    cout<<"enter num1 value : ";
     cin>>num;
 
     sum=num;
